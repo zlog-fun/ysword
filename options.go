@@ -4,10 +4,9 @@ import (
 	"context"
 	"os"
 
-	"ysword/graceful"
-	"ysword/server"
-
 	"github.com/gin-gonic/gin"
+	"github.com/zlog-fun/ysword/v1/graceful"
+	"github.com/zlog-fun/ysword/v1/server"
 	"go.uber.org/zap"
 )
 
