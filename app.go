@@ -4,8 +4,8 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/zlog-fun/ysword/v1/graceful"
-	"github.com/zlog-fun/ysword/v1/server"
+	"github.com/zlog-fun/ysword/graceful"
+	"github.com/zlog-fun/ysword/server"
 )
 
 // AppInfoData is application context value.

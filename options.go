@@ -5,8 +5,9 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/zlog-fun/ysword/v1/graceful"
-	"github.com/zlog-fun/ysword/v1/server"
+	"github.com/zlog-fun/ysword/graceful"
+	"github.com/zlog-fun/ysword/server"
+
 	"go.uber.org/zap"
 )
 
