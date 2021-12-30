@@ -1,4 +1,4 @@
-module ysword
+module github.com/zlog-fun/ysword
 
 go 1.17
 
